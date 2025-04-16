@@ -1,0 +1,6 @@
+@CI_CD_Project_HostAddress = http://localhost:5023
+
+GET {{CI_CD_Project_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

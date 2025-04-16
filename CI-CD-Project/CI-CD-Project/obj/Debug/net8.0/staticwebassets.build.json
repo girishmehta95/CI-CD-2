@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "RKE0Pltfgri5N/y95kvxuhSahf4/hYEUDd7/SRCSnPo=",
+  "Source": "CI-CD-Project",
+  "BasePath": "_content/CI-CD-Project",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
